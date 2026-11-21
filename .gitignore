@@ -16,3 +16,14 @@ cmake-build-*/
 
 # IDE
 .vscode/
+
+# Visual Studio
+.vs/
+out/
+
+# Qt
+*.qmlc
+*.jsc
+
+# Logs
+*.log
