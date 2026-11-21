@@ -1,0 +1,18 @@
+# CMake
+build/
+cmake-build-*/
+
+# Qt Creator
+*.user
+*.user.*
+
+# Compiled files
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.lib
+
+# IDE
+.vscode/
