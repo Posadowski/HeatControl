@@ -1,0 +1,31 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 2000,
+                            "functionName": "horizontalAlignment",
+                            "line": 21,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 14,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "E:/dev/Qt/HeatControl/qml/Main.qml"
+                }
+            ],
+            "moduleId": "HeatControl(HeatControl)"
+        }
+    ]
+}

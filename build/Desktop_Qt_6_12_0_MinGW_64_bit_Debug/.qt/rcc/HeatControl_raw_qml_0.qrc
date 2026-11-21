@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/HeatControl/">
+    <file alias="qml/Main.qml">E:/dev/Qt/HeatControl/qml/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+module HeatControl
+typeinfo HeatControl.qmltypes
+prefer :/qt/qml/HeatControl/
+Main 1.0 qml/Main.qml
+depends QtQuick
+

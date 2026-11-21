@@ -1,0 +1,15 @@
+-rootPath
+E:/dev/Qt/HeatControl
+-cmake-output
+-output-file
+E:/dev/Qt/HeatControl/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qml_imports/HeatControl_conf.cmake
+-importPath
+E:/dev/Qt/HeatControl/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-importPath
+E:/dev/Qt/HeatControl/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/HeatControl
+-importPath
+D:/Qt/6.12.0/mingw_64/qml
+-qrcFiles
+E:/dev/Qt/HeatControl/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_HeatControl.qrc
+E:/dev/Qt/HeatControl/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/HeatControl_raw_qml_0.qrc
+E:/dev/Qt/HeatControl/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/HeatControl_raw_qml_0_extra_qmldirs.qrc

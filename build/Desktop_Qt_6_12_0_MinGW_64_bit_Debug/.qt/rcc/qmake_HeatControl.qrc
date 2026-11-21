@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/HeatControl">
+    <file alias="qmldir">E:/dev/Qt/HeatControl/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/HeatControl/qmldir</file>
+  </qresource>
+</RCC>
+
