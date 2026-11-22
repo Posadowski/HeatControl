@@ -22,9 +22,16 @@ qt_add_qml_module(HeatControl
     VERSION 1.0
     QML_FILES
         qml/Main.qml
+    SOURCES
+        src/app/AppController.h
+        src/app/AppController.cpp
+        src/network/DeviceStatus.h
+        src/network/Esp32Client.h
+        src/network/Esp32Client.cpp    
 )
 
 target_link_libraries(HeatControl
     PRIVATE
         Qt6::Quick
+        Qt6::Network
 )
